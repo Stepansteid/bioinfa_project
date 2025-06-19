@@ -16,6 +16,7 @@ https://docs.google.com/presentation/d/1dEg5m09Ou5fLq66mmTET-Pc5kM6i8EZ-/edit?sl
 
 
 Работа состоит из четырех частей
+
 Ссылка первую часть:
 https://colab.research.google.com/drive/1VKRmz_Dg62seBUlzrozV4O_WfzszFew2?usp=sharing
 
