@@ -18,13 +18,17 @@ https://docs.google.com/presentation/d/1dEg5m09Ou5fLq66mmTET-Pc5kM6i8EZ-/edit?sl
 Работа состоит из четырех частей
 
 Ссылка первую часть:
+
 https://colab.research.google.com/drive/1VKRmz_Dg62seBUlzrozV4O_WfzszFew2?usp=sharing
 
 Ссылка на вторую часть:
+
 https://colab.research.google.com/drive/1P5k2mnc2D4tVGXhd35CPjLiKh8xeKUCr?usp=sharing
 
 Ссылка на третью часть:
+
 https://colab.research.google.com/drive/1UrPRGQYDWIfroQnJlYLY5ZWc0OmLxnCF?usp=sharing
 
 Ссылка на четвертую часть:
+
 https://colab.research.google.com/drive/1wxeTOm79N19XPnAVJCVTtN_NxnBNBlj3?usp=sharing
